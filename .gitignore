@@ -1,0 +1,10 @@
+.claude/
+.trae/
+
+*.egg-info/
+__pycache__/
+.idea/
+*.bin
+
+lm-evaluation-harness/
+utils/credential.json
